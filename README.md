@@ -1,6 +1,5 @@
-# MERN - Simple Setup Check
+# MERN - Mern User Register and login applicaion using server side rendering
 
-### [Live Demo](http://simplesetup2.mernbook.com/ "MERN Simple Setup")
 
 #### What you need to run this code
 1. Node (13.12.0)
